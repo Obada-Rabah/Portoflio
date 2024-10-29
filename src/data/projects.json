@@ -1,0 +1,28 @@
+[
+   
+    {
+        "title": "Doctors Mobile App",
+        "imageSrc": "projects/doctor.png",
+        "description": "This is a simple Android application that creat, read, update and delete notes",
+        "skills": ["React", "CSS","Node", "Express", "PostgresQL"],
+        "demo": "https://obada-rabah.github.io/Doctor/APK/",
+        "source": "https://github.com/Obada-Rabah/Doctor.git"
+    },
+    {
+        "title": "Space Website",
+        "imageSrc": "projects/space.png",
+        "description": "Responsive Landing Page could be improved to full website project",
+        "skills": ["HTML", "CSS", "Javascript"],
+        "demo": "https://obada-rabah.github.io/Space-LandingPage/",
+        "source": "https://github.com/Obada-Rabah/Space-LandingPage.git"
+    },
+    {
+        "title": "Movies-API",
+        "imageSrc": "projects/movies.png",
+        "description": "A full Backend project that has users and admins, you can rate, add, delete, update movies",
+        "skills": ["Node", "MongoDB", "Express"],
+        "demo": "",
+        "source": "https://github.com/Obada-Rabah/Movies-API.git"
+    }
+
+]
